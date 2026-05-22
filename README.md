@@ -1,4 +1,4 @@
-# Hello, I'm Yakup! 👋 (aka yakupakturk)
+# Hello, I'm Yakup! 👋 (aka YAKOBABA)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7DF1E&center=false&vCenter=false&width=500&lines=Frontend+Developer;JavaScript+Enthusiast;HTML+%26+CSS+Craftsman;Building+cool+things+on+the+web+%F0%9F%9A%80)](https://github.com/yakupakturk)
 
